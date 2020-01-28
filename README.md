@@ -24,3 +24,13 @@ mkdir webpack-react-tutorial && cd $_
 
 - <https://docs.npmjs.com/cli/init>
 - <https://legacy.yarnpkg.com/en/docs/cli/init/#toc-yarn-init-yes-y>
+
+## Markdown rules
+
+因為 Visual Studio Code 有加 markdown-lint ，碰到的問題也一併寫在這。
+
+### No Bare URLs
+
+因為有些轉換器無法直接轉換 URL ，因此有建議應該要用小於大於箭頭包起來。
+
+- <https://github.com/updownpress/markdown-lint/blob/master/rules/034-no-bare-urls.md>
