@@ -52,5 +52,14 @@ yarn install
 
 ## Libraries
 
+### Webpack
+
 - webpack
 - webpack-cli
+
+### Babel
+
+- @babel/core
+- babel-loader
+- @babel/preset-env
+- @babel/preset-react
