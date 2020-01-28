@@ -16,11 +16,11 @@ mkdir webpack-react-tutorial && cd $_
 
 ## npm -> yarn 相關
 
+### 跳過初始設定直接建立一個空的 package.json
+
 | npm | yarn |
 |---|---|
 | `npm init -y` | `yarn init -y` |
-
-跳過初始設定直接建立一個空的 package.json
 
 - <https://docs.npmjs.com/cli/init>
 - <https://legacy.yarnpkg.com/en/docs/cli/init/#toc-yarn-init-yes-y>
