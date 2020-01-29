@@ -65,6 +65,7 @@ yarn install
 
 - react
 - react-dom
+- prop-types
 
 ### Webpack
 
