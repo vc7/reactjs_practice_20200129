@@ -14,6 +14,15 @@ mkdir webpack-react-tutorial && cd $_
 
 參考： <https://unix.stackexchange.com/a/271693>
 
+## mkdir 和 `-p`, `{}`
+
+``` sh
+mkdir -p src/js/components/{container,presentational}
+```
+
+- `-p` 如果路徑中資料夾不存在的話就建立
+- 利用 `{}` 可以達成執行一個指令就可以建立多個資料夾或檔案
+
 ## npm -> yarn 相關
 
 ### 安裝相依
