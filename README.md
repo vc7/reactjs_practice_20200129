@@ -52,6 +52,11 @@ yarn install
 
 ## Libraries
 
+### React
+
+- react
+- react-dom
+
 ### Webpack
 
 - webpack
